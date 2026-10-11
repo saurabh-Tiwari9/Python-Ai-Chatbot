@@ -39,6 +39,7 @@ python main.py
 
 ## Project URL
 https://github.com/saurabh-Tiwari9/Python-Ai-Chatbot
+https://roadmap.sh/projects/openai-api-python
 
 ## Security
 Never publish your API key or upload it to GitHub.
